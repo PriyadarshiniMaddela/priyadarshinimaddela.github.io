@@ -15,7 +15,7 @@ baseurl                  : ""
 author:
   name             : "Priyadarshini Maddela"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "Business Intelligence | Data Analytics | Business Analysis"
+  bio              : "Business Intelligence | Data Analysis | Business Analysis"
   location         : "Worcester, MA"
   email            : "maddelapriyadarshini@gmail.com"
   links:
@@ -24,7 +24,7 @@ author:
       url: "mailto:maddelapriyadarshini@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/your-linkedin"
+      url: "https://www.linkedin.com/in/pmaddela/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/PriyadarshiniMaddela"
