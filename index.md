@@ -1,24 +1,19 @@
 ---
-layout: splash
-title: "Welcome to My Business Intelligence Portfolio"
-permalink: /
-header:
-  overlay_color: "#2b2b2b"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/bi-background.jpg
-  actions:
-    - label: "🚀 View My Projects"
-      url: "/projects"
+layout: home
+title: "Priyadarshini Maddela | Business Intelligence Portfolio"
+subtitle: "Turning Data into Insights | BI • Data Analytics • Business Analysis"
 ---
 
-# Hi, I'm **Priyadarshini Maddela**  
-### Business Intelligence | Data Analytics | Business Analysis
+👋 Welcome to my **Business Intelligence & Data Analytics Portfolio**!
 
-I turn raw data into **actionable insights** using tools like **Tableau**, **SQL**, **Excel**, and **Python** to drive smarter business decisions.
+I’m **Priyadarshini Maddela**, a data-driven professional with 4+ years of experience in **Business Analysis**, **Data Analytics**, and **Project Management**. Currently pursuing my Master’s in Information Technology at Clark University, I specialize in transforming complex data into clear, actionable insights using tools like **Tableau**, **Power BI**, **SQL**, and **Python**.
 
-[Download My Resume](#) {: .btn .btn--primary} 
-[Connect on LinkedIn](https://www.linkedin.com/in/pmaddela/) {: .btn}
+🚀 **What You'll Find Here:**
+- Real-world BI projects in **Customer Analytics**, **Fraud Detection**, and **Transportation Analytics**
+- Interactive dashboards and data visualizations
+- Insights on how Business Intelligence drives smarter decisions
 
----
+👉 [Explore My Projects](./projects)  
+📬 [Get in Touch](./contact)  
 
-{% include feature_row id="skills" %}
+Let’s turn data into decisions!
