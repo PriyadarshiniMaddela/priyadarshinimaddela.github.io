@@ -11,6 +11,9 @@ Here you'll find a selection of my featured projects where I applied Business In
 ---
 
 ## 🛒 Walmart Customer Analysis | *Iron Viz Challenge*
+
+![Walmart Dashboard](/assets/images/walmart_dashboard.png)
+
 **Objective:**  
 Analyzed customer purchasing behavior to identify high-performing products, seasonal trends, and regional buying preferences using Walmart transaction data.
 
@@ -23,9 +26,11 @@ Analyzed customer purchasing behavior to identify high-performing products, seas
 
 🔗 [View Dashboard](#)
 
+
 ---
 
 ## 💳 SecureBank Fraud Detection Project
+![SecureBank Fraud Detection](/assets/images/securebank_fraud.png)
 **Objective:**  
 Performed fraud detection analysis on banking transactions to uncover risk patterns and prevent fraudulent activity in financial systems.
 
@@ -41,6 +46,8 @@ Performed fraud detection analysis on banking transactions to uncover risk patte
 ---
 
 ## 🚆 Amtrak Ridership & Operations Analysis
+![Amtrak Ridership](/assets/images/Amtrak Dashboard 1.jpg)
+![Amtrak Ridership](/assets/images/Amtrak Dashboard 2.jpg)
 **Objective:**  
 Provided operational insights and ridership trends for Amtrak to help optimize station-level performance and route planning.
 
