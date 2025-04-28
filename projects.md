@@ -30,7 +30,7 @@ Analyzed customer purchasing behavior to identify high-performing products, seas
 ---
 
 ## 💳 SecureBank Fraud Detection Project
-![SecureBank Fraud Detection](/assets/images/Secure Bank Fraud Dashboard.jpg)
+![SecureBank Fraud Detection](/assets/images/Secure_Bank_Fraud_Dashboard.jpg)
 **Objective:**  
 Performed fraud detection analysis on banking transactions to uncover risk patterns and prevent fraudulent activity in financial systems.
 
@@ -46,7 +46,8 @@ Performed fraud detection analysis on banking transactions to uncover risk patte
 ---
 
 ## 🚆 Amtrak Ridership & Operations Analysis
-![Amtrak Ridership](/assets/images/Amtrak Dashboard 2.jpg)
+![Amtrak Dashboard](/assets/images/Amtrak_Dashboard_1.jpeg)
+![Amtrak Ridership](/assets/images/Amtrak%20Dashboard%202.jpg)
 **Objective:**  
 Provided operational insights and ridership trends for Amtrak to help optimize station-level performance and route planning.
 
