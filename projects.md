@@ -46,7 +46,6 @@ Performed fraud detection analysis on banking transactions to uncover risk patte
 ---
 
 ## 🚆 Amtrak Ridership & Operations Analysis
-![Amtrak Ridership](/assets/images/Amtrak Dashboard 1.jpg)
 ![Amtrak Ridership](/assets/images/Amtrak Dashboard 2.jpg)
 **Objective:**  
 Provided operational insights and ridership trends for Amtrak to help optimize station-level performance and route planning.
