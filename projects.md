@@ -30,7 +30,7 @@ Analyzed customer purchasing behavior to identify high-performing products, seas
 ---
 
 ## 💳 SecureBank Fraud Detection Project
-![SecureBank Fraud Detection](/assets/images/Secure_Bank_Fraud_Dashboard.jpg)
+![SecureBank Fraud Detection Dashboard](/assets/images/securebank_fraud_dashboard.jpg)
 **Objective:**  
 Performed fraud detection analysis on banking transactions to uncover risk patterns and prevent fraudulent activity in financial systems.
 
