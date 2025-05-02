@@ -1,33 +1,44 @@
 ---
 layout: home
 title: "Priyadarshini Maddela | Business Intelligence Portfolio"
-subtitle: "Turning Data into Insights | Business Intelligence • Data Analytics • Business Analysis"
+subtitle: "Business Intelligence | Data Analytics | Business Analysis"
 ---
 
-# 👩‍💻 Welcome to My Portfolio
+# 👋 Hi, I'm Priya
 
-Hi, I'm **Priyadarshini Maddela** — a Business Intelligence and Data Analytics professional passionate about transforming data into powerful business insights.
+**MSIT Graduate Student at Clark University**
 
-Currently pursuing my Master's in Information Technology at Clark University, I bring 4+ years of real-world experience in:
-- 📊 Business Intelligence
-- 📈 Data Analytics
-- 🧠 Business Analysis
-- ⚙️ Project Management
-
-I specialize in tools like **Tableau**, **SQL**, **Python**, **Power BI**, and **Excel**.
+![Priyadarshini Maddela](/assets/images/your_image.jpg)
 
 ---
 
-# 🚀 Explore My Work
+## 📖 About Me
 
-👉 [**View Projects**](./projects)  
-📬 [**Get in Touch**](./contact)
+Hey! I'm Priyadarshini Maddela, currently pursuing a Master of Science in Information Technology at Clark University in Massachusetts.
+
+Experienced **Business Analyst** with 4 years of experience in **business process improvement**, **stakeholder collaboration**, and **data-driven decision-making**. Skilled in **requirements gathering**, **reporting**, **BI tools**, and **project management**. Proven ability to analyze complex datasets, optimize workflows, and enhance operational efficiency.
+
+Proficient in **Tableau, Power BI, Google Analytics, SQL, and Jira** to provide actionable insights that drive success. Seeking a challenging Business Analyst role to apply my analytical and strategic thinking to optimize processes.
+
+*Let's connect and explore the endless possibilities in tech!*
 
 ---
 
-# 🔧 Skills
+## 📌 Quick Info
 
-| BI Tools | Data Technologies | Methodologies |
-|:--------|:------------------|:--------------|
-| Tableau | SQL, Python, Excel | Agile, Scrum |
-| Power BI | MySQL, PostgreSQL | Business Analysis |
+**MSIT '25 | Clarkie | Ex-Infoscion | B.Tech**
+
+My technical skillset includes **C, SQL, R, Python**, and data visualization tools such as **Excel, Splunk, Tableau & Power BI**.  
+I possess strong managerial skills, including **analytical/problem-solving, process optimization, communication, and leadership skills**.
+
+---
+
+## 📬 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:maddelapriyadarshini@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile)  
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/priyadarshnimaddela)
+
+---
+
+Contact me at **PMaddela@clarku.edu**
