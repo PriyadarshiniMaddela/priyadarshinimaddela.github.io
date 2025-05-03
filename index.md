@@ -4,7 +4,7 @@ title: "Priyadarshini Maddela | Business Intelligence Portfolio"
 subtitle: "Business Intelligence | Data Analytics | Business Analysis"
 ---
 
-<div style="background-color:#222; color:white; padding: 40px; text-align: center;">
+<div style="background-color:#222; color:white; padding: 80px 20px; width: 100vw; margin-left: calc(-50vw + 50%); text-align: center;">
 
 # 👋 Hi, I'm Priya
 
