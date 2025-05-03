@@ -20,7 +20,7 @@ subtitle: "Business Intelligence | Data Analytics | Business Analysis"
 
 <h2>📖 About Me</h2>
 
-<p style="max-width: 1000px; margin: 0 auto;">
+<p style="margin: 0 auto; text-align: center;">
 
 Hey! I'm Priyadarshini Maddela, currently pursuing a Master of Science in Information Technology at Clark University in Massachusetts.
 
@@ -38,11 +38,12 @@ Proficient in <strong>Tableau, Power BI, Google Analytics, SQL, and Jira</strong
 
 <div style="background-color:white; color:black; padding: 50px 20px; width: 100vw; margin-left: calc(-50vw + 50%); text-align: center;">
 
-<h2>🎓 Quick Info</h2>
-
-<p style="max-width: 800px; margin: 0 auto;">
-
+<h2>🎓 
 <strong>MSIT '25 | Clarkie | Ex-Infoscion | B.Tech</strong><br>
+</h2>
+
+<p style="margin: 0 auto; text-align: center;">
+
 
 My technical skillset includes <strong>C, SQL, R, Python</strong> and data visualization tools such as <strong>Excel, Splunk, Tableau & Power BI</strong>.  
 Additionally, I possess strong managerial skills, analytical thinking, problem-solving abilities, <strong>Business Process Optimization</strong>, and <strong>effective communication and presentation skills</strong>.
