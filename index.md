@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Priyadarshini Maddela | Business Intelligence Portfolio"
+title: "Priyadarshini Maddela | My Portfolio"
 subtitle: "Business Intelligence | Data Analytics | Business Analysis"
 ---
 
