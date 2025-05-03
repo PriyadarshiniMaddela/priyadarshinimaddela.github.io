@@ -53,6 +53,31 @@ Additionally, I possess strong managerial skills, analytical thinking, problem-s
 </div>
 
 ---
+<div style="background-color:#f7f7f7; color:black; padding: 50px 20px; width: 100vw; margin-left: calc(-50vw + 50%); text-align: center;">
+
+<h2>📬 Connect with Me</h2>
+
+<p>
+
+<a href="mailto:maddelapriyadarshini@gmail.com">
+<img src="/assets/images/outlook.jpg" alt="Email" width="60" style="margin: 10px; border-radius: 12px;">
+</a>
+
+<a href="https://www.linkedin.com/in/pmaddela/">
+<img src="/assets/images/linkedin.jpg" alt="LinkedIn" width="60" style="margin: 10px; border-radius: 12px;">
+</a>
+
+<a href="https://github.com/PriyadarshiniMaddela">
+<img src="/assets/images/github.jpg" alt="GitHub" width="60" style="margin: 10px; border-radius: 12px;">
+</a>
+
+<a href="#">
+<img src="/assets/images/wtsapp.jpg" alt="WhatsApp" width="60" style="margin: 10px; border-radius: 12px;">
+</a>
+
+</p>
+
+</div>
 
 
 
