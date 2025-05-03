@@ -18,9 +18,6 @@ subtitle: "Business Intelligence | Data Analytics | Business Analysis"
 
 <div style="background-color:#e3edf0; padding: 20px; border-radius: 10px;">
 
-<h2>📖 About Me</h2>
-
-<div style="background-color:#e3edf0; color:black; padding: 50px 80px; width: 100vw; margin-left: calc(-50vw + 50%); text-align: center;">
 
 <h2>📖 About Me</h2>
 
