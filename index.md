@@ -56,22 +56,20 @@ Additionally, I possess strong managerial skills, analytical thinking, problem-s
 
 <div style="background-color:#f7f7f7; color:black; padding: 40px 20px; width: 100vw; margin-left: calc(-50vw + 50%); text-align: center;">
 
-<div style="background-color:#f7f7f7; color:black; padding: 40px 20px; width: 100vw; margin-left: calc(-50vw + 50%); text-align: center;">
-
 <h2>📬 Connect with Me</h2>
 
 <p>
 
 <a href="mailto:maddelapriyadarshini@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail&logoColor=white" alt="Email" style="margin: 5px;">
+<img src="https://img.shields.io/badge/mailto:maddelapriyadarshini@gmail.com" alt="Email" style="margin: 5px;">
 </a>
 
 <a href="https://www.linkedin.com/in/yourprofile">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;">
+<img src="https://img.shields.io/badge/https://www.linkedin.com/in/pmaddela/" alt="LinkedIn" style="margin: 5px;">
 </a>
 
 <a href="https://github.com/priyadarshnimaddela">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github&logoColor=white" alt="GitHub" style="margin: 5px;">
+<img src="https://img.shields.io/badge/https://github.com/PriyadarshiniMaddela" alt="GitHub" style="margin: 5px;">
 </a>
 
 </p>
@@ -86,9 +84,8 @@ Additionally, I possess strong managerial skills, analytical thinking, problem-s
 <p>
 
 [![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:maddelapriyadarshini@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/priyadarshnimaddela)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/pmaddela/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/PriyadarshiniMaddela)
 
 </p>
 
-<p><strong>Contact me at PMaddela@clarku.edu
