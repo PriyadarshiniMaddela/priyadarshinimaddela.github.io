@@ -6,9 +6,9 @@ subtitle: "Business Intelligence | Data Analytics | Business Analysis"
 
 <div style="background-color:#222; color:white; padding: 80px 20px; width: 100vw; margin-left: calc(-50vw + 50%); text-align: center;">
 
-# 👋 Hi, I'm Priya
+<h1>👋 Hi, I'm Priya</h1>
 
-### MSIT Graduate Student at Clark University
+<h2>MSIT Graduate Student at Clark University</h2>
 
 <img src="/assets/images/your_image.jpg" alt="Priyadarshini Maddela" width="300" style="border-radius: 10px; margin-top: 20px;"/>
 
