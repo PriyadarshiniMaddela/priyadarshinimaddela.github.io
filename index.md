@@ -4,13 +4,13 @@ title: "Priyadarshini Maddela | Business Intelligence Portfolio"
 subtitle: "Business Intelligence | Data Analytics | Business Analysis"
 ---
 
-<div align="center">
+<div style="background-color:#222; color:white; padding: 40px; text-align: center;">
 
 # 👋 Hi, I'm Priya
 
 ### MSIT Graduate Student at Clark University
 
-<img src="/assets/images/your_image.jpg" alt="Priyadarshini Maddela" width="300"/>
+<img src="/assets/images/your_image.jpg" alt="Priyadarshini Maddela" width="300" style="border-radius: 10px; margin-top: 20px;"/>
 
 </div>
 
