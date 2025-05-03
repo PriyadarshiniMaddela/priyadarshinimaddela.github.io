@@ -79,13 +79,32 @@ Additionally, I possess strong managerial skills, analytical thinking, problem-s
 </div>
 
 
+<div style="background-color:#f7f7f7; color:black; padding: 40px 20px; width: 100vw; margin-left: calc(-50vw + 50%); text-align: center;">
+
 <h2>📬 Connect with Me</h2>
 
 <p>
 
-[![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:maddelapriyadarshini@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/pmaddela/)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/PriyadarshiniMaddela)
+<a href="mailto:maddelapriyadarshini@gmail.com">
+<img src="/assets/outlook.jpg" alt="Email" width="50" style="margin: 10px; border-radius: 8px;">
+</a>
+
+<a href="https://www.linkedin.com/in/pmaddela/">
+<img src="/assets/linkedin.jpg" alt="LinkedIn" width="50" style="margin: 10px; border-radius: 8px;">
+</a>
+
+<a href="https://github.com/PriyadarshiniMaddela">
+<img src="/assets/github.jpg" alt="GitHub" width="50" style="margin: 10px; border-radius: 8px;">
+</a>
+
+<a href="#">
+<img src="/assets/wtsapp.jpg" alt="WhatsApp" width="50" style="margin: 10px; border-radius: 8px;">
+</a>
 
 </p>
+
+<p><strong>Contact me at PMaddela@clarku.edu</strong></p>
+
+</div>
+
 
