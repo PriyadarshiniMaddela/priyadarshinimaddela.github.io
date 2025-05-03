@@ -1,147 +1,60 @@
-# Welcome to Jekyll!
+---
+layout: home
+title: "Priyadarshini Maddela | Business Intelligence Portfolio"
+subtitle: "Business Intelligence | Data Analytics | Business Analysis"
+---
 
-minimal_mistakes_skin    : "default"
+<div style="background-color:#222; color:white; padding: 40px; text-align: center;">
 
-# Site Settings
-locale                   : "en-US"
-title                    : "Priyadarshini Maddela | BI & Data Analytics Portfolio"
-title_separator          : "-"
-description              : "Showcasing Business Intelligence, Data Visualization, and Business Analysis Projects"
-name                     : "Priyadarshini Maddela"
-url                      : "https://priyadarshnimaddela.github.io"
-baseurl                  : ""
+# 👋 Hi, I'm Priya
 
-# Site Author
-author:
-  name             : "Priyadarshini Maddela"
-  avatar           : "/assets/images/profile.jpg"
-  bio              : "Business Intelligence | Data Analysis | Business Analysis"
-  location         : "Worcester, MA"
-  email            : "maddelapriyadarshini@gmail.com"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:maddelapriyadarshini@gmail.com"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/pmaddela/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/PriyadarshiniMaddela"
+### MSIT Graduate Student at Clark University
 
-# Site Footer
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/your-linkedin"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/PriyadarshiniMaddela"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:maddelapriyadarshini@gmail.com"
+<img src="/assets/images/your_image.jpg" alt="Priyadarshini Maddela" width="300" style="border-radius: 10px; margin-top: 20px;"/>
 
-# Theme
-remote_theme           : "mmistakes/minimal-mistakes"
+</div>
 
-include:
-  - .htaccess
-  - _pages
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - vendor
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - minimal-mistakes-jekyll.gemspec
-  - node_modules
-  - package.json
-  - package-lock.json
-  - Rakefile
-  - README
-  - tmp
-  - /docs
-  - /test
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+---
 
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+<div style="background-color:#e3edf0; padding: 20px; border-radius: 10px;">
 
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+## 📖 About Me
 
-sass:
-  sass_dir: _sass
-  style: compressed
+Hey! I'm Priyadarshini Maddela, currently pursuing a Master of Science in Information Technology at Clark University in Massachusetts.
 
-permalink: /:categories/:title/
-timezone: 
+Experienced **Business Analyst** with 4 years of experience in **business process improvement**, **stakeholder collaboration**, and **data-driven decision-making**.  
+Skilled in **requirements gathering**, **reporting**, **BI tools**, and **project management**.  
+Proven ability to analyze complex datasets, optimize workflows, and enhance operational efficiency.
 
-paginate: 5
+Proficient in **Tableau, Power BI, Google Analytics, SQL, and Jira** to provide actionable insights. Seeking a challenging Business Analyst role to apply analytical and strategic thinking to optimize business processes.
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
+*Let's connect and explore the endless possibilities in tech!*
 
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
+</div>
 
-category_archive:
-  type: liquid
-  path: /categories/
+---
 
-tag_archive:
-  type: liquid
-  path: /tags/
+<div align="center">
 
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
+## 📌 Quick Info
 
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      share: true
-      related: true
+**MSIT '25 | Clarkie | Ex-Infoscion | B.Tech**
 
+My technical skillset includes **C, SQL, R, Python**, and data visualization tools like **Excel, Splunk, Tableau & Power BI**.  
+Strong skills in **problem-solving, optimization, presentation, communication, and leadership**.
+
+</div>
+
+---
+
+<div align="center">
+
+## 📬 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:maddelapriyadarshini@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile)  
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/priyadarshnimaddela)
+
+Contact me at **PMaddela@clarku.edu**
+
+</div>
