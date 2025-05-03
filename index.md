@@ -20,6 +20,12 @@ subtitle: "Business Intelligence | Data Analytics | Business Analysis"
 
 <h2>📖 About Me</h2>
 
+<div style="background-color:#e3edf0; color:black; padding: 50px 80px; width: 100vw; margin-left: calc(-50vw + 50%); text-align: center;">
+
+<h2>📖 About Me</h2>
+
+<p style="max-width: 1000px; margin: 0 auto;">
+
 Hey! I'm Priyadarshini Maddela, currently pursuing a Master of Science in Information Technology at Clark University in Massachusetts.
 
 Experienced <strong>Business Analyst</strong> with 4 years of experience in <strong>business process improvement</strong>, <strong>stakeholder collaboration</strong>, and <strong>data-driven decision-making</strong>.  
@@ -28,4 +34,7 @@ Proven ability to analyze complex datasets, optimize workflows, and enhance oper
 
 Proficient in <strong>Tableau, Power BI, Google Analytics, SQL, and Jira</strong> to provide actionable insights. Seeking a challenging Business Analyst role to apply analytical and strategic thinking to optimize business processes.
 
+</p>
+
 </div>
+
