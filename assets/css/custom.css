@@ -1,0 +1,8 @@
+/* Center footer social icons and links */
+.footer__social {
+  text-align: center !important;
+}
+
+.page__footer-follow {
+  text-align: center !important;
+}
