@@ -7,3 +7,16 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Custom Footer Alignment */
+.site-footer {
+  text-align: center;
+}
+
+.footer__links {
+  display: inline-block;
+}
+
+.footer__links a {
+  margin: 0 10px;
+}
