@@ -152,7 +152,8 @@ compress_html:
   ignore:
     envs: development
 
-defaults:
+
+      defaults:
   - scope:
       path: ""
       type: posts
@@ -162,4 +163,5 @@ defaults:
       read_time: true
       share: true
       related: true
-      css: "/assets/css/custom.css"
+      css: "/assets/css/main.scss"
+
