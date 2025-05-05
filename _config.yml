@@ -1,23 +1,29 @@
 # Welcome to Jekyll!
 
-minimal_mistakes_skin    : "default"
+minimal_mistakes_skin: "default"
 
+# -------------------------------------
 # Site Settings
-locale                   : "en-US"
-title                    : "Priyadarshini Maddela | BI & Data Analytics Portfolio"
-title_separator          : "-"
-description              : "Showcasing Business Intelligence, Data Visualization, and Business Analysis Projects"
-name                     : "Priyadarshini Maddela"
-url                      : "https://priyadarshnimaddela.github.io"
-baseurl                  : ""
+# -------------------------------------
 
-# Site Author
+locale: "en-US"
+title: "Priyadarshini Maddela | BI & Data Analytics Portfolio"
+title_separator: "-"
+description: "Showcasing Business Intelligence, Data Visualization, and Business Analysis Projects"
+name: "Priyadarshini Maddela"
+url: "https://priyadarshnimaddela.github.io"
+baseurl: ""
+
+# -------------------------------------
+# Author Settings
+# -------------------------------------
+
 author:
-  name             : "Priyadarshini Maddela"
-  avatar           : "/assets/images/profile.jpg"
-  bio              : "Business Intelligence | Data Analysis | Business Analysis"
-  location         : "Worcester, MA"
-  email            : "maddelapriyadarshini@gmail.com"
+  name: "Priyadarshini Maddela"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Business Intelligence | Data Analysis | Business Analysis"
+  location: "Worcester, MA"
+  email: "maddelapriyadarshini@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -29,7 +35,10 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/PriyadarshiniMaddela"
 
-# Site Footer
+# -------------------------------------
+# Footer Links
+# -------------------------------------
+
 footer:
   links:
     - label: "LinkedIn"
@@ -43,14 +52,18 @@ footer:
       url: "mailto:maddelapriyadarshini@gmail.com"
     - label: "WhatsApp"
       icon: "fab fa-fw fa-whatsapp"
-      url: "#"
+      url: "#"   # <-- Replace # with your WhatsApp link if you want -> Example: https://wa.me/15551234567
 
-# Theme
-remote_theme           : "mmistakes/minimal-mistakes"
+# -------------------------------------
+# Theme and Build Settings
+# -------------------------------------
+
+remote_theme: "mmistakes/minimal-mistakes"
 
 include:
   - .htaccess
   - _pages
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -79,9 +92,11 @@ exclude:
   - tmp
   - /docs
   - /test
+
 keep_files:
   - .git
   - .svn
+
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
@@ -106,7 +121,7 @@ sass:
   style: compressed
 
 permalink: /:categories/:title/
-timezone: 
+timezone:
 
 paginate: 5
 
