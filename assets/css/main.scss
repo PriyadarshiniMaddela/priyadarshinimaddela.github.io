@@ -5,18 +5,45 @@ search: false
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+// Import theme skins and main partials
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
 
-/* Custom Footer Alignment */
+/* -----------------------------
+   Custom Footer Alignment + Styling 
+----------------------------- */
+
 .site-footer {
   text-align: center;
+  padding: 20px 0;
+  background-color: #f8f8f8;  // optional, gives light background
+  font-size: 14px;
 }
 
 .footer__links {
   display: inline-block;
+  margin: 0 auto;
 }
 
 .footer__links a {
-  margin: 0 10px;
+  display: inline-block;
+  margin: 0 15px;
+  color: #333;  // dark color for footer links
+  transition: color 0.3s ease;
+}
+
+.footer__links a:hover {
+  color: #007acc;  // light blue on hover
+}
+
+.footer__links img {
+  width: 24px;
+  height: 24px;
+  vertical-align: middle;
+  margin-right: 6px;
+}
+
+/* Optional: Remove underline from links in footer */
+.footer__links a {
+  text-decoration: none;
 }
