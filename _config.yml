@@ -2,10 +2,7 @@
 
 minimal_mistakes_skin: "default"
 
-# -------------------------------------
 # Site Settings
-# -------------------------------------
-
 locale: "en-US"
 title: "Priyadarshini Maddela | BI & Data Analytics Portfolio"
 title_separator: "-"
@@ -14,10 +11,7 @@ name: "Priyadarshini Maddela"
 url: "https://priyadarshnimaddela.github.io"
 baseurl: ""
 
-# -------------------------------------
-# Author Settings
-# -------------------------------------
-
+# Author Info
 author:
   name: "Priyadarshini Maddela"
   avatar: "/assets/images/profile.jpg"
@@ -35,10 +29,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/PriyadarshiniMaddela"
 
-# -------------------------------------
 # Footer Links
-# -------------------------------------
-
 footer:
   links:
     - label: "LinkedIn"
@@ -52,12 +43,9 @@ footer:
       url: "mailto:maddelapriyadarshini@gmail.com"
     - label: "WhatsApp"
       icon: "fab fa-fw fa-whatsapp"
-      url: "#"   # <-- Replace # with your WhatsApp link if you want -> Example: https://wa.me/15551234567
+      url: "#"
 
-# -------------------------------------
-# Theme and Build Settings
-# -------------------------------------
-
+# Theme
 remote_theme: "mmistakes/minimal-mistakes"
 
 include:
@@ -152,16 +140,13 @@ compress_html:
   ignore:
     envs: development
 
-
-      defaults:
+defaults:
   - scope:
       path: ""
-      type: posts
     values:
       layout: single
       author_profile: true
       read_time: true
       share: true
       related: true
-      css: "/assets/css/main.scss"
-
+      css: "/assets/css/main.css"

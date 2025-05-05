@@ -1,16 +1,1 @@
-/* Center align footer follow section */
-.page__footer-follow {
-  text-align: center;
-}
-
-/* Center align social links */
-.footer__social {
-  justify-content: center !important;
-  display: flex !important;
-}
-
-/* Make footer links inline and add spacing */
-.page__footer-follow li {
-  display: inline-block;
-  margin: 0 10px;
-}
+/* Not required. Using main.scss now. */
