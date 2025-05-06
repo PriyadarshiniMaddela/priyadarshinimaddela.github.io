@@ -55,29 +55,34 @@ Additionally, I possess strong managerial skills, analytical thinking, problem-s
 ---
 <div style="background-color:#f7f7f7; color:black; padding: 50px 20px; width: 100vw; margin-left: calc(-50vw + 50%); text-align: center;">
 
-<div align="center" style="background-color:#f8f8f8; padding: 30px 0;">
+<div align="center" style="background-color:#f8f8f8; padding: 40px 0;">
 
 <h2>📬 Connect with Me</h2>
 
-<a href="mailto:maddelapriyadarshini@gmail.com">
-  <img src="/assets/images/outlook.jpg" alt="Email" style="width:50px;height:50px;margin: 0 15px; border-radius: 10px;">
+<p style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+
+<a href="mailto:maddelapriyadarshini@gmail.com" target="_blank">
+  <img src="/assets/images/outlook.jpg" alt="Email" style="width:60px;height:60px;border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </a>
 
-<a href="https://www.linkedin.com/in/pmaddela/">
-  <img src="/assets/images/linkedin.jpg" alt="LinkedIn" style="width:50px;height:50px;margin: 0 15px; border-radius: 10px;">
+<a href="https://www.linkedin.com/in/pmaddela/" target="_blank">
+  <img src="/assets/images/linkedin.jpg" alt="LinkedIn" style="width:60px;height:60px;border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </a>
 
-<a href="https://github.com/PriyadarshiniMaddela">
-  <img src="/assets/images/github.jpg" alt="GitHub" style="width:50px;height:50px;margin: 0 15px; border-radius: 10px;">
+<a href="https://github.com/PriyadarshiniMaddela" target="_blank">
+  <img src="/assets/images/github.jpg" alt="GitHub" style="width:60px;height:60px;border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1); background-color: white;">
 </a>
 
-<a href="#">
-  <img src="/assets/images/wtsapp.jpg" alt="WhatsApp" style="width:50px;height:50px;margin: 0 15px; border-radius: 10px;">
+<a href="#" target="_blank">
+  <img src="/assets/images/wtsapp.jpg" alt="WhatsApp" style="width:60px;height:60px;border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </a>
+
+</p>
 
 <p><strong>Contact me at PMaddela@clarku.edu</strong></p>
 
 </div>
+
 
 
 
