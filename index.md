@@ -1,55 +1,89 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Priyadarshini Maddela | Portfolio</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 0; }
-        header { background: #333; color: white; padding: 15px; text-align: center; }
-        nav a { color: white; margin: 0 15px; text-decoration: none; }
-        .hero { background-color: #1f1f1f; color: white; padding: 40px; text-align: center; }
-        .about { background-color: #eaf6f6; padding: 40px; text-align: center; }
-        .footer { background-color: white; padding: 20px; text-align: center; font-size: 14px; }
-        img.profile { width: 150px; border-radius: 10px; }
-        .social-icons img { width: 30px; margin: 0 10px; }
-    </style>
-</head>
-<body>
+---
+layout: home
+title: "Priyadarshini Maddela | My Portfolio"
+subtitle: "Business Intelligence | Data Analytics | Business Analysis"
+---
 
-<header>
-    <h2>Priyadarshini Maddela</h2>
-    <nav>
-        <a href="#">Home</a>
-        <a href="#">Education</a>
-        <a href="#">Projects</a>
-        <a href="#">Certifications</a>
-    </nav>
-</header>
+<div style="background-color:#222; color:white; padding: 80px 20px; width: 100vw; margin-left: calc(-50vw + 50%); text-align: center;">
 
-<div class="hero">
-    <img src="profile.jpg" alt="Profile Photo" class="profile">
-    <h1>Hi, I'm Priya</h1>
-    <h3>MSIT graduate student at Clark University</h3>
+<h1>👋 Hi, I'm Priya</h1>
+
+<h2>MSIT Graduate Student at Clark University</h2>
+
+<img src="/assets/images/your_image.jpg" alt="Priyadarshini Maddela" width="300" style="border-radius: 10px; margin-top: 20px;"/>
+
 </div>
 
-<div class="about">
-    <h2>About Me</h2>
-    <p>
-        Hey! I'm Priyadarshini Maddela, currently pursuing a Master of Science in Information Technology at Clark University in Massachusetts. <br><br>
-        Experienced Business Analyst with 4 years of experience in <strong>business process improvement</strong>, <strong>stakeholder collaboration</strong>, and <strong>data-driven decision-making</strong>. Proficient in <strong>Tableau</strong>, <strong>Power BI</strong>, <strong>SQL</strong>, <strong>Google Analytics</strong> and <strong>Jira</strong>. Seeking a Business Analyst role to apply my skills and contribute to organizational success.
-    </p>
+---
+
+<div style="background-color:#e3edf0; color:black; padding: 50px 80px; width: 100vw; margin-left: calc(-50vw + 50%); text-align: center;">
+
+<h2>📖 About Me</h2>
+
+<p style="margin: 0 auto; text-align: center;">
+
+Hey! I'm Priyadarshini Maddela, currently pursuing a Master of Science in Information Technology at Clark University in Massachusetts.
+
+Experienced <strong>Business Analyst</strong> with 4 years of experience in <strong>business process improvement</strong>, <strong>stakeholder collaboration</strong>, and <strong>data-driven decision-making</strong>.  
+Skilled in <strong>requirements gathering</strong>, <strong>reporting</strong>, <strong>BI tools</strong>, and <strong>project management</strong>.  
+Proven ability to analyze complex datasets, optimize workflows, and enhance operational efficiency.
+
+Proficient in <strong>Tableau, Power BI, Google Analytics, SQL, and Jira</strong> to provide actionable insights. Seeking a challenging Business Analyst role to apply analytical and strategic thinking to optimize business processes.
+
+</p>
+
 </div>
 
-<div class="footer">
-    <p>MSIT '25 | Clarkie | Ex-Infosys | B.Tech</p>
-    <p>Technical Skills: C, SQL, Python, Tableau, Power BI, Splunk, Excel, Jira</p>
-    <div class="social-icons">
-        <a href="#"><img src="linkedin.png" alt="LinkedIn"></a>
-        <a href="#"><img src="github.png" alt="GitHub"></a>
-        <a href="#"><img src="email.png" alt="Email"></a>
-    </div>
+---
+
+<div style="background-color:white; color:black; padding: 50px 20px; width: 100vw; margin-left: calc(-50vw + 50%); text-align: center;">
+
+<h2>🎓 
+<strong>MSIT '25 | Clarkie | Ex-Infoscion | B.Tech</strong><br>
+</h2>
+
+<p style="margin: 0 auto; text-align: center;">
+
+
+My technical skillset includes <strong>C, SQL, R, Python</strong> and data visualization tools such as <strong>Excel, Splunk, Tableau & Power BI</strong>.  
+Additionally, I possess strong managerial skills, analytical thinking, problem-solving abilities, <strong>Business Process Optimization</strong>, and <strong>effective communication and presentation skills</strong>.
+
+</p>
+
 </div>
 
-</body>
-</html>
+---
+<div style="background-color:#f7f7f7; color:black; padding: 50px 20px; width: 100vw; margin-left: calc(-50vw + 50%); text-align: center;">
+
+<div align="center" style="background-color:#f8f8f8; padding: 40px 0;">
+
+<h2>📬 Connect with Me</h2>
+
+<p style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+
+<a href="mailto:maddelapriyadarshini@gmail.com" target="_blank">
+  <img src="/assets/images/outlook.jpg" alt="Email" style="width:60px;height:60px;border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</a>
+
+<a href="https://www.linkedin.com/in/pmaddela/" target="_blank">
+  <img src="/assets/images/linkedin.jpg" alt="LinkedIn" style="width:60px;height:60px;border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</a>
+
+<a href="https://github.com/PriyadarshiniMaddela" target="_blank">
+  <img src="/assets/images/github.jpg" alt="GitHub" style="width:60px;height:60px;border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1); background-color: white;">
+</a>
+
+<a href="#" target="_blank">
+  <img src="/assets/images/wtsapp.jpg" alt="WhatsApp" style="width:60px;height:60px;border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</a>
+
+</p>
+
+<p><strong>Contact me at PMaddela@clarku.edu</strong></p>
+
+</div>
+
+
+
+
+
