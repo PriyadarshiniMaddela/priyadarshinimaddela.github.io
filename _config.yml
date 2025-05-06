@@ -1,23 +1,23 @@
 # Welcome to Jekyll!
 
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin    : "default"
 
 # Site Settings
-locale: "en-US"
-title: "Priyadarshini Maddela | BI & Data Analytics Portfolio"
-title_separator: "-"
-description: "Showcasing Business Intelligence, Data Visualization, and Business Analysis Projects"
-name: "Priyadarshini Maddela"
-url: "https://priyadarshnimaddela.github.io"
-baseurl: ""
+locale                   : "en-US"
+title                    : "Priyadarshini Maddela | BI & Data Analytics Portfolio"
+title_separator          : "-"
+description              : "Showcasing Business Intelligence, Data Visualization, and Business Analysis Projects"
+name                     : "Priyadarshini Maddela"
+url                      : "https://priyadarshnimaddela.github.io"
+baseurl                  : ""
 
-# Author Info
+# Site Author
 author:
-  name: "Priyadarshini Maddela"
-  avatar: "/assets/images/profile.jpg"
-  bio: "Business Intelligence | Data Analysis | Business Analysis"
-  location: "Worcester, MA"
-  email: "maddelapriyadarshini@gmail.com"
+  name             : "Priyadarshini Maddela"
+  avatar           : "/assets/images/profile.jpg"
+  bio              : "Business Intelligence | Data Analysis | Business Analysis"
+  location         : "Worcester, MA"
+  email            : "maddelapriyadarshini@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -46,7 +46,7 @@ footer:
       url: "#"
 
 # Theme
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes"
 
 include:
   - .htaccess
@@ -58,25 +58,8 @@ exclude:
   - vendor
   - .asset-cache
   - .bundle
-  - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - minimal-mistakes-jekyll.gemspec
   - node_modules
-  - package.json
-  - package-lock.json
-  - Rakefile
-  - README
   - tmp
   - /docs
   - /test
@@ -90,59 +73,11 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 markdown: kramdown
 highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-permalink: /:categories/:title/
-timezone:
-
-paginate: 5
-
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-
-category_archive:
-  type: liquid
-  path: /categories/
-
-tag_archive:
-  type: liquid
-  path: /tags/
-
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
 
 defaults:
   - scope:
       path: ""
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -150,3 +85,11 @@ defaults:
       share: true
       related: true
       css: "/assets/css/main.css"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-include-cache
+
+paginate: 5

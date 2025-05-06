@@ -1,59 +1,49 @@
 ---
 layout: home
-title: "Priyadarshini Maddela | My Portfolio"
+title: "Priyadarshini Maddela | Business Intelligence Portfolio"
 subtitle: "Business Intelligence | Data Analytics | Business Analysis"
 ---
 
-<div style="background-color:#222; color:white; padding: 80px 20px; width: 100vw; margin-left: calc(-50vw + 50%); text-align: center;">
+<div style="background-color:#222; color:white; padding: 80px 20px; text-align: center;">
 
 <h1>👋 Hi, I'm Priya</h1>
-
 <h2>MSIT Graduate Student at Clark University</h2>
-
 <img src="/assets/images/your_image.jpg" alt="Priyadarshini Maddela" width="300" style="border-radius: 10px; margin-top: 20px;"/>
 
 </div>
 
 ---
 
-<div style="background-color:#e3edf0; color:black; padding: 50px 80px; width: 100vw; margin-left: calc(-50vw + 50%); text-align: center;">
+<div style="background-color:#e3edf0; padding: 40px; text-align: center;">
 
 <h2>📖 About Me</h2>
 
-<p style="margin: 0 auto; text-align: center;">
-
-Hey! I'm Priyadarshini Maddela, currently pursuing a Master of Science in Information Technology at Clark University in Massachusetts.
+<p>
+I'm Priyadarshini Maddela, currently pursuing a Master of Science in Information Technology at Clark University, Massachusetts.
 
 Experienced <strong>Business Analyst</strong> with 4 years of experience in <strong>business process improvement</strong>, <strong>stakeholder collaboration</strong>, and <strong>data-driven decision-making</strong>.  
 Skilled in <strong>requirements gathering</strong>, <strong>reporting</strong>, <strong>BI tools</strong>, and <strong>project management</strong>.  
-Proven ability to analyze complex datasets, optimize workflows, and enhance operational efficiency.
-
-Proficient in <strong>Tableau, Power BI, Google Analytics, SQL, and Jira</strong> to provide actionable insights. Seeking a challenging Business Analyst role to apply analytical and strategic thinking to optimize business processes.
-
+Proficient in <strong>Tableau, Power BI, SQL, Google Analytics, Jira</strong> and more.
 </p>
 
 </div>
 
 ---
 
-<div style="background-color:white; color:black; padding: 50px 20px; width: 100vw; margin-left: calc(-50vw + 50%); text-align: center;">
+<div align="center">
 
-<h2>🎓 
-<strong>MSIT '25 | Clarkie | Ex-Infoscion | B.Tech</strong><br>
-</h2>
+<h2>📌 Quick Info</h2>
 
-<p style="margin: 0 auto; text-align: center;">
+<p><strong>MSIT '25 | Clarkie | Ex-Infoscion | B.Tech</strong></p>
 
-
-My technical skillset includes <strong>C, SQL, R, Python</strong> and data visualization tools such as <strong>Excel, Splunk, Tableau & Power BI</strong>.  
-Additionally, I possess strong managerial skills, analytical thinking, problem-solving abilities, <strong>Business Process Optimization</strong>, and <strong>effective communication and presentation skills</strong>.
-
+<p>
+Technical skills: <strong>C, SQL, R, Python</strong>, and visualization tools like <strong>Excel, Splunk, Tableau, Power BI</strong>.  
+Strengths include analytical thinking, problem-solving, business process optimization, and communication skills.
 </p>
 
 </div>
 
 ---
-<div style="background-color:#f7f7f7; color:black; padding: 50px 20px; width: 100vw; margin-left: calc(-50vw + 50%); text-align: center;">
 
 <div align="center" style="background-color:#f8f8f8; padding: 40px 0;">
 
@@ -62,19 +52,19 @@ Additionally, I possess strong managerial skills, analytical thinking, problem-s
 <p style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
 <a href="mailto:maddelapriyadarshini@gmail.com" target="_blank">
-  <img src="/assets/images/outlook.jpg" alt="Email" style="width:60px;height:60px;border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="/assets/images/outlook.jpg" alt="Email" style="width:60px;height:60px;border-radius:50%;box-shadow:0 4px 6px rgba(0,0,0,0.1);">
 </a>
 
 <a href="https://www.linkedin.com/in/pmaddela/" target="_blank">
-  <img src="/assets/images/linkedin.jpg" alt="LinkedIn" style="width:60px;height:60px;border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="/assets/images/linkedin.jpg" alt="LinkedIn" style="width:60px;height:60px;border-radius:50%;box-shadow:0 4px 6px rgba(0,0,0,0.1);">
 </a>
 
 <a href="https://github.com/PriyadarshiniMaddela" target="_blank">
-  <img src="/assets/images/github.jpg" alt="GitHub" style="width:60px;height:60px;border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1); background-color: white;">
+  <img src="/assets/images/github.jpg" alt="GitHub" style="width:60px;height:60px;border-radius:50%;box-shadow:0 4px 6px rgba(0,0,0,0.1);background:white;">
 </a>
 
 <a href="#" target="_blank">
-  <img src="/assets/images/wtsapp.jpg" alt="WhatsApp" style="width:60px;height:60px;border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="/assets/images/wtsapp.jpg" alt="WhatsApp" style="width:60px;height:60px;border-radius:50%;box-shadow:0 4px 6px rgba(0,0,0,0.1);">
 </a>
 
 </p>
@@ -82,8 +72,3 @@ Additionally, I possess strong managerial skills, analytical thinking, problem-s
 <p><strong>Contact me at PMaddela@clarku.edu</strong></p>
 
 </div>
-
-
-
-
-
