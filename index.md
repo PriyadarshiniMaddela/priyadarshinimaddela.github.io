@@ -2,7 +2,6 @@
 layout: home
 title: "Priyadarshini Maddela | Business Intelligence Portfolio"
 subtitle: "Business Intelligence | Data Analytics | Business Analysis"
-author_profile: false
 ---
 
 <div style="background-color:#222; color:white; padding: 80px 20px; text-align: center;">
